@@ -13,4 +13,4 @@ for (var i = 1; i <= 300; i++) {
   });
 }
 
-console.log(JSON.stringify(database));
+// console.log(JSON.stringify(database));

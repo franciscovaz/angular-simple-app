@@ -13,6 +13,7 @@ import {
   MatIconModule,
   MatButtonModule,
   MatProgressSpinnerModule,
+  MatCardModule,
 } from "@angular/material";
 @NgModule({
   declarations: [AppComponent, HomeComponent, AboutComponent],
@@ -25,6 +26,7 @@ import {
     MatIconModule,
     MatButtonModule,
     MatProgressSpinnerModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
